@@ -1,0 +1,8 @@
+{
+  "name": "LibreLink Viewer",
+  "description": "Displays current glucose reading",
+  "uuid": "librelinkviewer@example.com",
+  "shell-version": [
+    "46"
+  ]
+}
